@@ -1,0 +1,51 @@
+Time      JOB
+
+0         J11
+2         J21
+4         Idle
+5         J31
+6         J41
+8         J51
+10        J12
+12        J22
+14        J61
+16        J71
+18        J81
+20        J13
+22        J23
+24        Idle
+25        J32
+26        J42
+28        Idle
+30        J14
+32        J24
+34        Idle
+40        J15
+42        J25
+44        Idle
+45        J33
+46        J43
+48        J52
+50        J16
+52        J26
+54        J62
+56        Idle
+60        J17
+62        J27
+64        Idle
+65        J34
+66        J44
+68        Idle
+70        J18
+72        J28
+74        Idle
+
+One Hyper-period complete
+Task 1 : Expected no.of exec = 8, no.of times exec = 8 No deadlines missed
+Task 2 : Expected no.of exec = 8, no.of times exec = 8 No deadlines missed
+Task 3 : Expected no.of exec = 4, no.of times exec = 4 No deadlines missed
+Task 4 : Expected no.of exec = 4, no.of times exec = 4 No deadlines missed
+Task 5 : Expected no.of exec = 2, no.of times exec = 2 No deadlines missed
+Task 6 : Expected no.of exec = 2, no.of times exec = 2 No deadlines missed
+Task 7 : Expected no.of exec = 1, no.of times exec = 1 No deadlines missed
+Task 8 : Expected no.of exec = 1, no.of times exec = 1 No deadlines missed
