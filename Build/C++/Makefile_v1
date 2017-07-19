@@ -1,0 +1,5 @@
+# Target will compile all the file
+
+all:
+	g++ main.c function.h function1.h -o hello
+	

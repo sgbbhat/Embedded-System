@@ -1,0 +1,19 @@
+# Target will compile all the file
+
+all: hello
+
+hello: main.o function.o function1.o
+	g++ main.o function.o function1.o -o hello
+
+main.o: main.cpp
+	g++ -c main.cpp
+
+function.o: function.cpp
+	g++ -c function.cpp
+
+function1.o: function1.cpp
+	g++ -c function1.cpp
+
+clean:
+	rm -rf *.o hello
+	
